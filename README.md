@@ -6,5 +6,7 @@
 ## Configuration
 Modify run.sh
 
+```
 BOT_ADMINS: ';' separated list of GitHub ids
 BOT_TRIGGER: The word that the bot will respond to
+```
