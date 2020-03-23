@@ -1,0 +1,2 @@
+octomachinery==0.2.1
+aiohttp==3.6.2
