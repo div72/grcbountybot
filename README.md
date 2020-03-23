@@ -1,8 +1,9 @@
 # grcbountybot
 ## Installation
 1. Clone the repo
-2. Make a new GitHub App (set a webhook, give it r&w permissions for issues)
-3. Install the app to the GitHub user/organization
+2. `pip install -r requirements.txt`
+3. Make a new GitHub App (set a webhook, give it r&w permissions for issues)
+4. Install the app to the GitHub user/organization
 ## Configuration
 Modify run.sh
 
